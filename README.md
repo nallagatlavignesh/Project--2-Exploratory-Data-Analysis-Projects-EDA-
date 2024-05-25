@@ -1,5 +1,4 @@
-Project--2-Exploratory-Data-Analysis-Projects-EDA
-
+# Project--2-Exploratory-Data-Analysis-Projects-EDA
 Absolutely, Exploratory Data Analysis (EDA) projects are a fantastic way to develop your data analysis skills! Here are some key points to remember about EDA projects:
 
 Data Acquisition: Find a dataset that interests you. There are many publicly available datasets you can find online https://data.gov/ or through platforms like Kaggle https://www.kaggle.com/datasets
